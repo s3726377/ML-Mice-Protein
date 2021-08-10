@@ -1,4 +1,6 @@
 # ML-Mice-Protein
+To observe the expression levels of proteins critical to learning in a mouse Down syndrome.
+
 The aim of this report was to observe the expression levels of proteins critical to learning in a mouse model of Down
 syndrome. Expression levels of 77 proteins were measured in samples of mice with Down syndrome and without Down
 syndrome. Mice protein expression data set from UCI repository was used to classify using some of the common
